@@ -6,7 +6,7 @@ I am an **AI-Native Developer** who builds functional products at high velocity.
 ---
 
 ###  European Relocation Status
-* **Visa:** Currently holding a valid **Schengen Type C Visa**.
+
 * **Availability:** Seeking **2026 Mandatory Internships** or Junior Roles in Europe.
 * **Target:** Open to relocation with visa sponsorship (Germany, Netherlands, Switzerland).
 
